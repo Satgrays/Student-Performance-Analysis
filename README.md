@@ -1,7 +1,7 @@
 # Students Performance Analysis
 
 ## Overview
-This project analyzes the `StudentsPerformance.csv` dataset to explore various factors influencing student performance in math, reading, and writing. The project includes data preprocessing, exploratory data analysis, and the application of advanced data science techniques such as regression modeling, classification, feature engineering, and clustering.
+This project analyzes the `StudentsPerformance.csv` dataset to explore various factors influencing student performance in math, reading, and writing. The project includes data preprocessing, exploratory data analysis, and the application of basic data science techniques such as regression modeling, classification, feature engineering, and clustering.
 
 ## Features
 - **Data Preprocessing:** Handling missing data, encoding categorical variables using one-hot encoding.
