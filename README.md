@@ -16,25 +16,6 @@ This project analyzes the `StudentsPerformance.csv` dataset to explore various f
   - Dimensionality reduction using PCA.
 - **Model Evaluation:** Calculation of metrics like Mean Squared Error (MSE) for regression and accuracy for classification.
 
-## Setup
-
-### Prerequisites
-- Python 3.x
-- Required Python libraries: pandas, numpy, scikit-learn, seaborn, matplotlib, plotly
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/students-performance-analysis.git
-   cd students-performance-analysis
-   ```
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter Notebook or Python scripts to perform analysis.
-
 ## Usage
 1. **Preprocess the data:** Ensure categorical variables are encoded and the data is split into training and testing sets.
 2. **Run the models:** Train the regression or classification models and evaluate their performance.
