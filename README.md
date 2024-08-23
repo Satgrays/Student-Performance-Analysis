@@ -9,7 +9,7 @@ This project analyzes the `StudentsPerformance.csv` dataset to explore various f
 - **Predictive Modeling:** 
   - Regression models to predict scores.
   - Classification models to predict whether students pass or fail based on certain thresholds.
-- **Advanced Techniques:**
+- **Techniques:**
   - Feature engineering to create new features.
   - Correlation analysis and feature selection.
   - Clustering to group students based on performance.
